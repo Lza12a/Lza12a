@@ -1,7 +1,4 @@
-### About Me 👋
 
-- I'm Zhiqiang Liu
-  -  a graduate student in Zhejiang University, major in Computer Science
 <!--
 **Lza12a/Lza12a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
